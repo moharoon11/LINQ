@@ -3,7 +3,6 @@
 namespace LINQ.LinqExamples;
 
 using System;
-
 using System.Collections.Generic;
 using LINQ.Models;
 

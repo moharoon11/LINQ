@@ -7,7 +7,7 @@ public class Program
 
     public static void Main(string[] args)
     {
-        FilteringOperator.OFTypeFilter();
+        ProjectionOperator.SelectProjection();
     }
     
 }
