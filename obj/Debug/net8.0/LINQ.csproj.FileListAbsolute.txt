@@ -12,3 +12,4 @@
 /home/innowave/Projects/Haroon/DotnetProjects/LINQ/obj/Debug/net8.0/LINQ.pdb
 /home/innowave/Projects/Haroon/DotnetProjects/LINQ/obj/Debug/net8.0/LINQ.genruntimeconfig.cache
 /home/innowave/Projects/Haroon/DotnetProjects/LINQ/obj/Debug/net8.0/ref/LINQ.dll
+/home/innowave/Projects/Haroon/DotnetProjects/LINQ/obj/Debug/net8.0/LINQ.sourcelink.json
