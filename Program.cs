@@ -7,7 +7,7 @@ public class Program
 
     public static void Main(string[] args)
     {
-        ProjectionOperator.SelectProjection();
+        ProjectionOperator.SelectManyProjection();
     }
     
 }
