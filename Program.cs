@@ -7,7 +7,7 @@ public class Program
 
     public static void Main(string[] args)
     {
-        SortingOperator.Reverse();
+        GroupingOperators.GroupAndWhere();
     }
     
 }
