@@ -3,14 +3,7 @@ namespace LINQ.LinqExamples;
 
 public class AggregationOperatorsDemo
 {
-    public static void Main(string[] args)
-    {
-        CountExample();
-        SumExample();
-        AverageExample();
-        MinExample();
-        MaxExample();
-    }
+   
 
     public static void CountExample()
     {
